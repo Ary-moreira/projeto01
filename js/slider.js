@@ -1,1 +1,1 @@
-criando os banners
+//criando os banners
